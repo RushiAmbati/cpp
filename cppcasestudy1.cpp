@@ -6,7 +6,7 @@ int main()
 {
     char a[50],b[20],c[20];
     int i,j=0,l=0;
-    cout<<"enter";
+    cout<<"Enter Words";
     gets(a);
     for(i=0;i<=strlen(a);i++)
     {
